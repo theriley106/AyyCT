@@ -24,4 +24,3 @@ This program automates the process of finding/upvoting these posts so that you c
 ```
 $ python main.py
 ```
-[![N|Solid](src/logo.png)](#)
