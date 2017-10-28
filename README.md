@@ -10,14 +10,15 @@ This program automates the process of finding/upvoting these posts so that you c
 # Post Title Examples
 
 [![N|Solid](src/example1.png)](#)
-#
+
 [![N|Solid](src/example2.png)](#)
-#
+
 [![N|Solid](src/example3.png)](#)
-#
+
 [![N|Solid](src/example4.png)](#)
 
-#How to run
+# How to run
+
 '''
 $ python main.py
 '''
