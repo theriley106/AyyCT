@@ -13,7 +13,7 @@ class act(object):
 		self.loginReddit(username, password)
 		for e in self.returnAllTitle():
 			solved = self.solvePostTitle(e["Title"])
-			if solved == 36:
+			if solved == 36 or '36' in str(e["Title"]):
 				print("Upvoting {}".format(e["Title"]))
 				self.upvote(e["PostID"], e["Rank"])
 	def loginReddit(self, username, password):
