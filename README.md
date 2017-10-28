@@ -1,7 +1,7 @@
 # AyyCT
 
-[![N|Solid](src/logo.png)](#)
-## Python program that will upvote posts on /r/ACT that include a mathematical equation that evaluates to that thicccc 36 *yaaaboy*
+
+Python program that will upvote posts on /r/ACT that include a mathematical equation that evaluates to that thicccc 36 *yaaaboy*
 
 # Why is this a thing?
 
@@ -24,3 +24,4 @@ This program automates the process of finding/upvoting these posts so that you c
 ```
 $ python main.py
 ```
+[![N|Solid](src/logo.png)](#)
