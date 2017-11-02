@@ -25,4 +25,4 @@ This program automates the process of finding/upvoting these posts so that you c
 $ python main.py
 ```
 
-Time spend on this project: **~2hrs**
+Time spent on this project: **~2hrs**
