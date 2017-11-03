@@ -7,7 +7,7 @@ Python program that will upvote posts on /r/ACT that include a mathematical equa
 
 It's [statistically proven](http://www.act.org/) that the only way to actually get a 36 on the ACT is to upvote posts on the frontpage of /r/ACT that contain words like "THICC" or "THIIIRTY SIX" before test day.
 
-This program automates the process of finding/upvoting these posts so that you can have more time to study.
+This program automates the process of finding/upvoting these posts so you can have more time to study.
 
 # Post Title Examples
 
@@ -24,5 +24,3 @@ This program automates the process of finding/upvoting these posts so that you c
 ```
 $ python main.py
 ```
-
-Time spent on this project: **~2hrs**
