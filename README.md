@@ -21,6 +21,13 @@ This program automates the process of finding/upvoting these posts so you can ha
 
 # How to run
 
+Download requirements by running:
+
+```pip install -r requirements.txt```
+
+and start the program by running:
+
+
 ```
 $ python main.py
 ```
